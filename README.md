@@ -1,4 +1,4 @@
 # Toronto-Home-Prices-Predictor
-A machine learning model that predits Toronto home prices (2019)
+A linear regression model that predicts 2019 Toronto home prices using Pandas, NumPy, Matplotlib, and Scikit-Learn.
 
-Credits to https://github.com/slavaspirin/Toronto-housing-price-prediction for the house price data
+Dataset: https://github.com/slavaspirin/Toronto-housing-price-prediction
